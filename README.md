@@ -3,3 +3,7 @@ This project contains examples of setting up Gulp in Visual Studio 2013 to repla
 
 ###VS2013GulpExamples.Less
 A bare bones examples of using Gulp to compile LESS to CSS.
+
+###Setup
+1. Clone the repository.
+2. Run "npm install" in the VS2013GulpExamples.Less

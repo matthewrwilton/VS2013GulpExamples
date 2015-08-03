@@ -14,5 +14,5 @@ gulp.task("less", function () {
 });
 
 gulp.task("watch", function () {
-    gulp.watch(["./Content/Less/*.less"], ["less"]);
+    gulpWatch(["./Content/Less/*.less"], function () { gulp.start("less") });
 });
