@@ -6,4 +6,4 @@ A bare bones examples of using Gulp to compile LESS to CSS.
 
 ###Setup
 1. Clone the repository.
-2. Run "npm install" in the VS2013GulpExamples.Less
+2. Run "npm install" in the VS2013GulpExamples.Less directory.
